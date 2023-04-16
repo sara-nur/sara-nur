@@ -21,7 +21,7 @@ Connect with me:<br>
 ![](https://github-profile-trophy.vercel.app/?username=sara-nur&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 
 ## 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="550px"/>
+<img src="https://rm.up.railway.app/" width="520px"/>
 
 [![](https://visitcount.itsvg.in/api?id=sara-nur&icon=0&color=1)](https://visitcount.itsvg.in)
 
