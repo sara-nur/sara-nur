@@ -2,12 +2,15 @@
 
 Hey, I'm Sara! I'm an aspiring software engineer who loves keeping up with the latest trends. I'm always curious and eager to learn more, and I'm excited to use my skills to make a difference in the tech industry.
 
+My school related GitHub profile is saranur. 
+
 
 - 🔭 I’m currently working on **Aperi**
 - 🌱 I’m currently learning **Flutter**, **Arduino**
 
 Connect with me:<br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nur-sara) 
+
 
 
 ## 💻 Tech Stack:
