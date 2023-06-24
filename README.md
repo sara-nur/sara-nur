@@ -2,11 +2,11 @@
 
 Hey, I'm Sara! I'm an aspiring software engineer who loves keeping up with the latest trends. I'm always curious and eager to learn more, and I'm excited to use my skills to make a difference in the tech industry.
 
-My school related GitHub profile is saranur. 
+My school-related GitHub profile is saranur. 
 
 
 - 🔭 I’m currently working on **Aperi**
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning **Flutter**
 
 Connect with me:<br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nur-sara) 
@@ -23,8 +23,7 @@ Connect with me:<br>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sara-nur&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-## 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="520px"/>
+
 
 [![](https://visitcount.itsvg.in/api?id=sara-nur&icon=0&color=1)](https://visitcount.itsvg.in)
 
