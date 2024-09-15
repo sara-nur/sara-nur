@@ -5,7 +5,7 @@ Hey, I'm Sara! I'm an aspiring software engineer who loves keeping up with the l
 My school-related GitHub profile is saranur. 
 
 
-- 🔭 I’m currently working on **Aperi, DentoTrack**
+- 🔭 I’m currently working on **DentoTrack**
 - 🌱 I’m currently learning **Flutter, C#**
 
 Connect with me:<br>
