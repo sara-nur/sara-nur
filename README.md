@@ -18,11 +18,17 @@ Connect with me:<br>
 
 ## 📊 GitHub Stats:
 
+<table>
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sara-nur&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" height="150"/>
+</td>
+<td>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sara-nur&theme=vue-dark&hide_border=true" height="150"/>
+</td>
+</tr>
+</table>
 
-
-![sara-nur's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sara-nur&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-<br>
-![sara-nur's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sara-nur&theme=vue-dark&hide_border=true)
 
 
 
