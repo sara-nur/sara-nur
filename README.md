@@ -2,9 +2,6 @@
 
 Hey, I'm Sara! I'm an aspiring software engineer who loves keeping up with the latest trends. I'm always curious and eager to learn more, and I'm excited to use my skills to make a difference in the tech industry.
 
-My school-related GitHub profile is saranur. 
-
-
 - 🔭 I’m currently working on **DentoTrack**
 
 Connect with me:<br>
