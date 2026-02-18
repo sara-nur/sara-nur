@@ -8,7 +8,6 @@ Connect with me:<br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nur-sara) 
 
 
-
 ## 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
@@ -24,28 +23,4 @@ Connect with me:<br>
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 
-
-## 📊 GitHub Stats:
-
-<table>
-<tr>
-<td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sara-nur&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" height="150"/>
-</td>
-<td>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sara-nur&theme=vue-dark&hide_border=true" height="150"/>
-</td>
-</tr>
-</table>
-
-
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sara-nur&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-
-
-[![](https://visitcount.itsvg.in/api?id=sara-nur&icon=0&color=1)](https://visitcount.itsvg.in)
-
-
+![GitHub Stats](https://streak-stats.demolab.com?user=sara-nur&theme=radical&hide_border=true)
