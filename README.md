@@ -5,7 +5,7 @@ Hey, I'm Sara! I'm an aspiring software engineer who loves keeping up with the l
 - 🔭 I’m currently working on **DentoTrack**
 
 Connect with me:<br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nur-sara) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sara-nuredinovski) 
 
 
 ## 💻 Tech Stack:
